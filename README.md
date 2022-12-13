@@ -1,4 +1,4 @@
-<h2>Hey👋, Built a fresh new fully responsive **YouTube 2.0** with React, MaterialUi v5, Integreted Youtube API using Rapid API, added search functionallity, Channel Page, videos based on category, playing the video, similar video suggetions while playing a specific video and much more..</h2>
+<h2>Hey👋, Built a fresh new fully responsive <span style="color:#FC1503">YouTube 2.0</span> with React, MaterialUi v5, Integreted Youtube API using Rapid API, added search functionallity, Channel Page, videos based on category, playing the video, similar video suggetions while playing a specific video and much more..</h2>
 
 <h3> Check it out: https://youtube-2-csfahad.vercel.app/ 🚀🚀</h3>
 
