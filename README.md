@@ -1,49 +1,49 @@
-<h2>Hey👋, Built a fresh new fully responsive <span style="color:#FC1503">YouTube 2.0</span> with React, MaterialUi v5, Integreted Youtube API using Rapid API, added search functionallity, Channel Page, videos based on category, playing the video, similar video suggetions while playing a specific video and much more..</h2>
+# Youtube 2.0 web App
 
-<h3> Check it out: https://youtube-2-csfahad.vercel.app/ 🚀🚀</h3>
+Hey👋, Built a fresh new fully responsive YouTube 2.0 with React, MaterialUi v5, Integreted Youtube API using Rapid API, added search functionallity, Channel Page, videos based on category, playing the video, similar video suggetions while playing a specific video and much more..
 
-# Screenshots:
-<h4>Homepage :</h4>
-![Screenshot 2022-12-13 at 7 11 03 PM](https://user-images.githubusercontent.com/76874725/207363795-76a1d484-2cc1-494a-b199-b34fb12a9bff.png)
-  
-<h4>Coding Category:</h4>
-![Screenshot 2022-12-13 at 7 11 13 PM](https://user-images.githubusercontent.com/76874725/207364253-32df18f4-7d79-480c-9693-58438d63fb8c.png)
+<h3> Check it out: https://youtube-2-csfahad.vercel.app/</h3>
 
-<h4>ReactJS Category:</h4>
-![Screenshot 2022-12-13 at 7 12 00 PM](https://user-images.githubusercontent.com/76874725/207364492-b85892e7-84b8-499d-be11-eb27dd300545.png)
+## Screenshots
+![frame_safari_dark (3)](https://user-images.githubusercontent.com/76874725/219422844-a6b3506c-cf13-4983-940a-460797b928cb.png)
+![frame_safari_dark (4)](https://user-images.githubusercontent.com/76874725/219422864-18023f6c-0359-4358-82db-bbf06d6d200b.png)
+![frame_safari_dark (5)](https://user-images.githubusercontent.com/76874725/219422891-e4927196-e2e3-42cc-8862-9bf3f204df98.png)
+![frame_safari_dark (6)](https://user-images.githubusercontent.com/76874725/219422900-0c1096ec-2717-4626-8e1a-2f38db152152.png)
+![frame_safari_dark (7)](https://user-images.githubusercontent.com/76874725/219422928-ae04b069-bb19-4e2f-bfa3-ab7fec3e0f02.png)
 
-<h4>NextJS Category:</h4>
-![Screenshot 2022-12-13 at 7 12 34 PM](https://user-images.githubusercontent.com/76874725/207364656-67234768-0e8a-47d4-9582-fd31ac16ec2d.png)
+## Installation
 
-<h4>Music Category:</h4>
-![Screenshot 2022-12-13 at 7 12 48 PM](https://user-images.githubusercontent.com/76874725/207364821-1a157b2c-d158-40f8-9676-f3f4c0b8a16e.png)
+First Fork this repo & then Clone this repo
 
-<h4>Education Category:</h4>
-![Screenshot 2022-12-13 at 7 12 55 PM](https://user-images.githubusercontent.com/76874725/207364933-260e6ce3-e7a9-4a76-a63e-c02e92119e26.png)
+```bash
+  git clone https://github.com/<YOUR_USERNAME>/youtube-2.0.git
+  cd youtube-2.0
+```
 
-<h4>Podcast Category:</h4>
-![Screenshot 2022-12-13 at 7 13 32 PM](https://user-images.githubusercontent.com/76874725/207365159-3d18e591-d6a8-4775-b9ca-ed1f5afccbe9.png)
+Install the node_modules
 
-<h4>Movie Category:</h4>
-![Screenshot 2022-12-13 at 7 13 41 PM](https://user-images.githubusercontent.com/76874725/207365339-a89dec7e-472a-4d12-a7d5-f51c2c92e14a.png)
+```bash
+  npm install
+```
 
-<h4>Gaming Category:</h4>
-![Screenshot 2022-12-13 at 7 13 48 PM](https://user-images.githubusercontent.com/76874725/207365439-ac003388-95af-48b7-b360-c55ad8a26504.png)
+run the project
 
-<h4>Live Category:</h4>
-![Screenshot 2022-12-13 at 7 13 55 PM](https://user-images.githubusercontent.com/76874725/207365899-ee3ef5b1-d372-403f-acf0-ced18e1fb8e8.png)
+```bash
+  npm run start
+```
+    
+## Authors
 
-<h4>Sport Category:</h4>
-![Screenshot 2022-12-13 at 7 14 01 PM](https://user-images.githubusercontent.com/76874725/207365990-7762025c-194d-493b-857f-120d45dce08e.png)
+- [@csfahad](https://www.github.com/csfahad)
 
-<h4>Fashion Category:</h4>
-![Screenshot 2022-12-13 at 7 14 10 PM](https://user-images.githubusercontent.com/76874725/207366093-143f5acd-ed5d-4556-8b87-3815552b44e9.png)
 
-<h4>Channel Page:</h4>
-![Screenshot 2022-12-13 at 7 18 02 PM](https://user-images.githubusercontent.com/76874725/207366521-91433a3d-1c58-4c97-8c9a-d9fdaa7b2e4d.png)
+## About Me
+A Full MERN-stack developer,Open Source Contributor,DevOps Folk and A CyberSecurity Geek as well from India🇮🇳
 
-<h4>Video Player Page:</h4>
-![Screenshot 2022-12-13 at 7 18 49 PM](https://user-images.githubusercontent.com/76874725/207366671-9be08812-24d6-407b-ae51-16a401067269.png)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csfahad)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fahad_cs)
 
 <div align="center"><h3>Made with ❤️ by CsFahad</h3></div>
 
